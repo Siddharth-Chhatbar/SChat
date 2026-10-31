@@ -1,2 +1,2 @@
-# chat-backend
-This is a simple chat backend made in Go.
+# SChat
+This is a simple chat app made using Go and Solid2.
